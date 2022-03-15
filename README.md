@@ -50,11 +50,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@Tochukwu87](https://twitter.com/Tochukwu87)
 - LinkedIn: [Stanley Enekwe](https://linkedin.com/in/StanleyEnekwe)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -72,8 +67,6 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
 
 
