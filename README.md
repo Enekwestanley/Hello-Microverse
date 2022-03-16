@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Hello-Microverse.
+This is a simple project to display "Hello Microverse".
 
 
 ## Built With
